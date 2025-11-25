@@ -90,6 +90,9 @@ shark_df["new_sex"] = [
     else "unknown"
     for x in shark_df['Sex']
 ]
+```
+
+---
 
 ### 🔬 Research Team
 
@@ -128,7 +131,4 @@ After reviewing REGEX techniques, we will implement code to clean and standardiz
 
   - Convert all dates to a standard format for analysis.
 
-  ***
-
-  ***
-```
+---
